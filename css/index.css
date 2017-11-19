@@ -343,6 +343,7 @@ header {
 .nav2 li a {
     color: #555555;
     font-size: 15px;
+    cursor: pointer;
 }
 
 .nav2 li:hover {
