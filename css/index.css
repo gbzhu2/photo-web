@@ -338,12 +338,12 @@ header {
     line-height: 50px;
     float: left;
     text-align: center;
+    cursor: pointer;
 }
 
 .nav2 li a {
     color: #555555;
     font-size: 15px;
-    cursor: pointer;
 }
 
 .nav2 li:hover {
