@@ -1,0 +1,28 @@
+.center_2 {
+    width: 1180px;
+    margin: 10px auto;
+    color: #999;
+}
+
+ul.showcase_index {
+    width: 1215px;
+    margin: 10px auto;
+}
+
+ul.showcase_index li {
+    width: 386px;
+    height: 595px;
+    padding: 7px 7px 0 0;
+    float: left;
+}
+
+ul.showcase_index li a {
+    width: 386px;
+    height: 595px;
+    position: relative;
+    display: block;
+    background: #000;
+    color: #fff;
+    text-transform: uppercase;
+    border: 1px solid #fff;
+}
